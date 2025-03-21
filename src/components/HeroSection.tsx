@@ -10,10 +10,14 @@ const HeroSection = () => {
   const [isTyping, setIsTyping] = useState(true);
   
   const phrases = [
-    "DevOps Engineer",
-    "Cloud Security Specialist",
-    "Automation Enthusiast",
-    "System Analyst"
+    "Cyber Security Analyst",
+    "Dev Sec Ops Engineer",
+    "SIEM Analyst",
+    "Cloud Solutions Architect",
+    "Microsoft Dynamics 365 Engineer",
+    "DevOps Engineer & Cloud Security Specialist",
+    "Enterprise Systems Analyst",
+    "Full-Stack DevOps & Cloud Engineer"
   ];
   
   useEffect(() => {
