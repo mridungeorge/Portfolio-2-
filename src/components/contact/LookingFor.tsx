@@ -14,7 +14,7 @@ const LookingFor = () => {
         </li>
         <li className="flex items-start">
           <span className="text-cyber mr-2">•</span>
-          Remote or Sydney-based positions
+          Remote based positions
         </li>
         <li className="flex items-start">
           <span className="text-cyber mr-2">•</span>

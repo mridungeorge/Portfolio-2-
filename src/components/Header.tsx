@@ -77,7 +77,7 @@ const Header = () => {
              className="text-light-darker hover:text-cyber transition-colors duration-300">
             <Github size={20} />
           </a>
-          <a href="https://linkedin.com/in/mridungeorge" target="_blank" rel="noopener noreferrer" 
+          <a href="https://linkedin.com/in/mridun-george-27aa53145" target="_blank" rel="noopener noreferrer" 
              className="text-light-darker hover:text-cyber transition-colors duration-300">
             <Linkedin size={20} />
           </a>
